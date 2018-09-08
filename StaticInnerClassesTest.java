@@ -1,4 +1,4 @@
-
+#add
 public class StaticInnerClassesTest  {
 	public static void main(String[] args){
 
